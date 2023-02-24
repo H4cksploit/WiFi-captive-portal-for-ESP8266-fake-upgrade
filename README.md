@@ -21,9 +21,9 @@ The built-in LED will blink 5 times when some credentials are posted.
     <th>172.0.0.1/creds</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/index.jfif" title="Index"></td>
-    <td><img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/post.jfif" title="Post"></td>
-    <td><img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/creds.PNG" title="Creds"></td>
+    <img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/index.jfif" title="Index">
+    <img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/post.jfif" title="Post">
+    <img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/creds.PNG" title="Creds">
   </tr>
 </table>
 
