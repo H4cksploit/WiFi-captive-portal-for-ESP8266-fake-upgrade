@@ -1,4 +1,4 @@
-# ESP8266 WiFi Captive Portal 2.0
+# WiFi-captive-portal-for-ESP8266-Fake-sign-in
 
 ## Disclaimer
 This project is for testing and educational purposes. Use it only against your own networks and devices. I don't take any responsibility for what you do with this program.
@@ -21,32 +21,16 @@ The built-in LED will blink 5 times when some credentials are posted.
     <th>172.0.0.1/creds</th>
   </tr>
   <tr>
-     <tr><img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/index.jfif" title="Index"></tr>
-     <tr><img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/post.jfif" title="Post"></tr>
-     <tr><img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/creds.PNG" title="Creds"></tr>
+     <td><img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/index.jfif" title="Index">
+     <td><img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/post.jfif" title="Post">
+     <td><img src="https://github.com/H4cksploit/WiFi-captive-portal-for-ESP8266-Fake-sign-in-/blob/main/src/creds.PNG" title="Creds">
   </tr>
 </table>
 
 <a href="https://www.buymeacoffee.com/rSiZtB3" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
-# Installation (ESP8266 Flasher - Easy way)
 
-1. Download <a href="https://github.com/nodemcu/nodemcu-flasher"><b>ESP8266 Flasher</b></a>.
-
-2. Download the <b><a href="https://github.com/125K/ESP8266_WiFi_Captive_Portal_2.0/releases/download/2.1/release.bin">release.bin</b></a> file.
-
-3. Open the ESP8266 Flasher and select the Node MCU port
-
-<img width="80%" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal_2.0/master/src/1_port_selection.PNG">
-
-4. Then, go to the config tab and select the .bin file you've just downloaded.
-
-<img width="80%" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal_2.0/master/src/2_file_selection.png">
-
-5. Finally, go back to the first tab and press "Flash"
-
-6. Your Node MCU is ready!
 
 # Installation (Arduino IDE)
 
