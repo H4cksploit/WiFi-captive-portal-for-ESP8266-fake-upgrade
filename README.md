@@ -4,7 +4,7 @@
 This project is for testing and educational purposes. Use it only against your own networks and devices. I don't take any responsibility for what you do with this program.
 
 ## About this project
-WiFi captive portal for the NodeMCU (ESP8266 Module) with DNS spoofing. It asks the user for an email and a password for a fake sign in, in order to "get connected to the internet".
+WiFi captive portal for the NodeMCU (ESP8266 Module) with DNS spoofing. It asks the user for a password for a fake firmware upgrade , in order to "get connected to the internet".
 
 The built-in LED will blink 5 times when some credentials are posted.
 
